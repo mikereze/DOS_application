@@ -1,9 +1,9 @@
 # DOS (Denial Service Attack)
 
-**Name: Michale Rezene    
-Id: ATR/5760/08
-Department: Software Engineering
-Section: 2**
+**Name: Michale Rezene**    
+**Id: ATR/5760/08**
+**Department: Software Engineering**
+**Section: 2**
 
 I used the nodejs as a server and i send requests by ajax then by clicking the button "send". you can send multiple requests,
 then after a minute or few seconds it will be hard for other clients to access that server,
